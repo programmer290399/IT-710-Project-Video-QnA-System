@@ -6,6 +6,8 @@
 
 * You can find an introductory video up [here](https://youtu.be/LwHQm7HycLo).
 
+* You can watch a demo video up [here](https://youtu.be/6brrLMMggT0) 
+
 * You can find the project report up [here](https://docs.google.com/document/d/1enCMVpbb-w6UhvvcZaBCS29bSEqQ0XkKK6aGNR9PjGI/edit?usp=sharing).
 
 ## How to setup:
